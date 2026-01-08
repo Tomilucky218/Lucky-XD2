@@ -5,9 +5,9 @@ malvin({
     pattern: "pair",
     alias: ["getpair", "clonebot"],
     react: "✅",
-    desc: "Get pairing code for LUCKY-XD bot",
+    desc: "Get pairing code for dada bot",
     category: "download",
-    use: ".pair 256789966xxx",
+    use: ".pair 919051966xxx",
     filename: __filename
 }, async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, senderNumber, reply }) => {
     try {
